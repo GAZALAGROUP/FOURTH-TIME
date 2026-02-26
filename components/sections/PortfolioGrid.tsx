@@ -41,6 +41,13 @@ const projects: Project[] = [
         category: "Media Partnership",
         image: "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?auto=format&fit=crop&q=80&w=1600",
         link: "/work/cultured",
+    },
+    {
+        id: "5",
+        title: "Bahama Park",
+        category: "Social Media Management",
+        image: "https://images.unsplash.com/photo-1542181961-9590d0c79dab?auto=format&fit=crop&q=80&w=1600",
+        link: "/work/bahama-park-abuja",
     }
 ];
 
